@@ -1,3 +1,3 @@
 # Desktop_Sudoku
 
-Desktop Sudoku Application built using JavaFx.
+Desktop Sudoku Application built using JavaFX.
